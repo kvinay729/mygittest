@@ -16,6 +16,7 @@ public class NewTest {
   @Test
   public void openMyBlog() {
 	driver.get("http://www.google.com/");
+	System.out.println("opened");
   }
   
 	 @BeforeClass
