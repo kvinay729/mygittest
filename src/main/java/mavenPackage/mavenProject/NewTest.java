@@ -25,7 +25,7 @@ public class NewTest {
 //		 URL url = classLoader.getResource("chromedriver.exe");
 	
 	 System.setProperty("webdriver.chrome.driver",
-	 "C:\\Users\\zopper\\eclipse-workspace\\mavenProject\\chromedriver.exe");
+	 "C:\\Users\\zopper\\Downloads\\chromedriver_win32\\chromedriver.exe");
 	 driver = new ChromeDriver();
 	 
 	 
